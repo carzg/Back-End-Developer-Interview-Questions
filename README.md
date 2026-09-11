@@ -278,24 +278,24 @@ Feel free to open a [Discussion](https://github.com/arialdomartini/Back-End-Deve
 
 ### [[↑]](#toc) <a name='patterns'>Questions about Design Patterns:</a>
 #### Globals Are Evil
-Why are global and static objects evil? Can you show it with a code example?
+Why are global and static objects evil? Can you show it with a code example?  
 https://claude.ai/chat/2f13454f-2f95-404a-9592-3f5d4465d5cb
 
 #### Inversion of Control
 Tell me about Inversion of Control and how it improves the design of code.<br/>
-[Resources](design-patterns/inversion-of-control.md)
+[Resources](design-patterns/inversion-of-control.md)  
 https://claude.ai/chat/262c4e8b-be4a-42f9-a083-7251fe2087ff
 
 
 #### Law of Demeter
 The Law of Demeter (the Principle of Least Knowledge) states that each unit should have only limited knowledge about other units and it should only talk to its immediate friends (sometimes stated as "don't talk to strangers").<br/>
 Would you write code violating this principle, show why it is a bad design and then fix it?<br/>
-[Resources](design-patterns/law-of-demeter.md)
+[Resources](design-patterns/law-of-demeter.md)  
 https://claude.ai/chat/8202558e-a01f-4e97-aed0-a8e6b659b62e
 
 #### Active-Record
 Active-Record is the design pattern that promotes objects to include functions such as Insert, Update, and Delete, and properties that correspond to the columns in some underlying database table. In your opinion and experience, which are the limits and pitfalls of the this pattern?<br/>
-[Resources](design-patterns/active-record.md)
+[Resources](design-patterns/active-record.md)  
 https://claude.ai/chat/a5427744-f083-4a70-b8f9-075656965582
 
 #### Data-Mapper
