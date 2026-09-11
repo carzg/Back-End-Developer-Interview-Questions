@@ -278,6 +278,7 @@ Feel free to open a [Discussion](https://github.com/arialdomartini/Back-End-Deve
 ### [[↑]](#toc) <a name='patterns'>Questions about Design Patterns:</a>
 #### Globals Are Evil
 Why are global and static objects evil? Can you show it with a code example?
+https://claude.ai/chat/2f13454f-2f95-404a-9592-3f5d4465d5cb
 
 #### Inversion of Control
 Tell me about Inversion of Control and how it improves the design of code.<br/>
