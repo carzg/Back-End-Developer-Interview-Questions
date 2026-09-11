@@ -633,6 +633,8 @@ What are the top 3 things you wish non-technical people knew about code?
 #### 1 month's revolution
 Imagine your company gives you 1 month and some budget to improve your and your colleagues' daily life. What would you do?
 
+#### How do you use AI
+In your team, how do you use AI
 
 ### [[↑]](#toc) <a name='algorithms'>Questions about logic and algorithms:</a>
 
