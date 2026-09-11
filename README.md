@@ -299,12 +299,14 @@ Active-Record is the design pattern that promotes objects to include functions s
 https://claude.ai/chat/a5427744-f083-4a70-b8f9-075656965582
 
 #### Data-Mapper
-Data-Mapper is a design pattern that promotes the use of a layer of Mappers that moves data between objects and a database while keeping them independent of each other and the mapper itself. On the contrary, in Active-Record objects directly incorporate operations for persisting themselves to a database, and properties corresponding to the underlying database tables. Do you have an opinion on those patterns? When would you use one instead of the other?
+Data-Mapper is a design pattern that promotes the use of a layer of Mappers that moves data between objects and a database while keeping them independent of each other and the mapper itself. On the contrary, in Active-Record objects directly incorporate operations for persisting themselves to a database, and properties corresponding to the underlying database tables. Do you have an opinion on those patterns? When would you use one instead of the other?  
+https://claude.ai/chat/187fb2a7-e0c6-438f-95fd-ccde07c1ee1f
 
 #### Billion Dollar Mistake
 [Tony Hoare](https://en.m.wikipedia.org/wiki/Tony_Hoare) who invented the null reference once said "*I call it my billion-dollar mistake*" since it led to "*innumerable errors, vulnerabilities, and system crashes, which have probably caused a billion dollars of pain and damage in the last forty years*".
 
-Would you discuss the techniques to avoid it, such as the Null Object Pattern introduced by the GOF book, or Option types?
+Would you discuss the techniques to avoid it, such as the Null Object Pattern introduced by the GOF book, or Option types?  
+https://claude.ai/chat/266fba15-9bc4-483a-ab22-fd6bfd77b3bc
 
 #### Inheritance vs Composition
 Many state that, in Object-Oriented Programming, composition is often a better option than inheritance. What's you opinion?
