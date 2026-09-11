@@ -150,6 +150,7 @@ Feel free to open a [Discussion](https://github.com/arialdomartini/Back-End-Deve
   * [Qualities](#qualities)
   * [3 Things About Code](#3-things-about-code)
   * [1 Month's Revolution](#1-months-revolution)
+  * [How do you use AI](#how-do-you-use-AI)
 
 * [Questions about logic and algorithms](#algorithms)
   * [FIFO with LIFO](#fifo-with-lifo)
