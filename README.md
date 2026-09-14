@@ -309,32 +309,40 @@ Would you discuss the techniques to avoid it, such as the Null Object Pattern in
 https://claude.ai/chat/266fba15-9bc4-483a-ab22-fd6bfd77b3bc
 
 #### Inheritance vs Composition
-Many state that, in Object-Oriented Programming, composition is often a better option than inheritance. What's you opinion?
+Many state that, in Object-Oriented Programming, composition is often a better option than inheritance. What's you opinion?  
+https://claude.ai/chat/b01a0f81-e4d2-4c3b-bbcc-ea0c24f82afd
 
 #### Anti-Corruption Layer
-What is an Anti-corruption Layer?
+What is an Anti-corruption Layer?  
+https://claude.ai/chat/63980077-1a03-433c-aacd-99178b879df5
 
 #### Singleton
-Singleton is a design pattern that restricts the instantiation of a class to one single object. Writing a Thread-Safe Singleton class is not so obvious. Would you try?
+Singleton is a design pattern that restricts the instantiation of a class to one single object. Writing a Thread-Safe Singleton class is not so obvious. Would you try?  
+https://claude.ai/chat/0ea0ca1b-a0da-4d4d-b76f-9e9686105d82
 
 #### Data Abstraction
-The ability to change implementation without affecting clients is called Data Abstraction. Produce an example violating this property, then fix it.
+The ability to change implementation without affecting clients is called Data Abstraction. Produce an example violating this property, then fix it.  
+https://claude.ai/chat/ee5a0981-6035-46af-b40c-b30fad260a5b
 
 #### Don't Repeat Yourself
-Write a snippet of code violating the Don't Repeat Yourself (DRY) principle. Then, fix it.
+Write a snippet of code violating the Don't Repeat Yourself (DRY) principle. Then, fix it.  
+https://claude.ai/chat/b5f23e65-5c4f-4fe0-824c-8430a33bacf7
 
 #### Dependency Hell
-How would you deal with Dependency Hell?
+How would you deal with Dependency Hell?  
+https://claude.ai/chat/86ad2aa6-da1f-42d0-a5b3-9129c3a6a32a
 
 #### Goto is Evil
-Is goto evil? You may have heard of the famous paper "Go To Statement Considered Harmful" by Edsger Dijkstra, in which he criticized the use of the `goto` statement and advocated structured programming instead. The use of `goto` has always been controversial, so much that even Dijkstra's letter was criticized with articles such as "'GOTO Considered Harmful' Considered Harmful". What's your opinion on the use of `goto`?
+Is goto evil? You may have heard of the famous paper "Go To Statement Considered Harmful" by Edsger Dijkstra, in which he criticized the use of the `goto` statement and advocated structured programming instead. The use of `goto` has always been controversial, so much that even Dijkstra's letter was criticized with articles such as "'GOTO Considered Harmful' Considered Harmful". What's your opinion on the use of `goto`?  
+https://claude.ai/chat/85c8ebe8-bf78-4ca2-bdec-809a41f902a5
 
 #### Robustness Principle
-The robustness principle is a general design guideline for software that recommends "*be conservative in what you send, be liberal in what you accept*". It is often reworded as "*be a tolerant reader and a careful writer*". Would you like to discuss the rationale of this principle?
+The robustness principle is a general design guideline for software that recommends "*be conservative in what you send, be liberal in what you accept*". It is often reworded as "*be a tolerant reader and a careful writer*". Would you like to discuss the rationale of this principle?  
+https://claude.ai/chat/d8e67aba-3991-4281-b90a-664c86450e6d
 
 #### Separation of Concerns
-Separation of Concerns is a design principle for separating a computer program into distinct areas, each one addressing a separate concern. There are a lot of different mechanisms for achieving Separation of Concerns (use of objects, functions, modules, or patterns such as MVC and the like). Would you discuss this topic?
-
+Separation of Concerns is a design principle for separating a computer program into distinct areas, each one addressing a separate concern. There are a lot of different mechanisms for achieving Separation of Concerns (use of objects, functions, modules, or patterns such as MVC and the like). Would you discuss this topic?  
+https://claude.ai/chat/9a900fc3-b4cb-4565-b6cd-3c307561eaad
 
 ### [[↑]](#toc) <a name='design'>Questions about Code Design:</a>
 
