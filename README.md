@@ -46,8 +46,6 @@ Feel free to open a [Discussion](https://github.com/arialdomartini/Back-End-Deve
   * [High Cohesion, Loose Coupling](#high-cohesion-loose-coupling)
   * [Index 0](#index-0)
   * [TDD](#tdd)
-  * [DRY Violation](#dry-violation)
-  * [Cohesion vs Coupling](#cohesion-vs-coupling)
   * [Refactoring](#refactoring)
   * [Code Comments](#code-comments)
   * [Design vs Architecture](#design-vs-architecture)
@@ -347,34 +345,36 @@ https://claude.ai/chat/9a900fc3-b4cb-4565-b6cd-3c307561eaad
 ### [[↑]](#toc) <a name='design'>Questions about Code Design:</a>
 
 #### High Cohesion, Loose Coupling
-It is often said that one of the most important goals in Object-Oriented Design (and code design in general) is to have High Cohesion and Loose Coupling. What does it mean? Why is it that important and how is it achieved?
+It is often said that one of the most important goals in Object-Oriented Design (and code design in general) is to have High Cohesion and Loose Coupling. What does it mean? Why is it that important and how is it achieved?  
+https://claude.ai/chat/417bc0bc-4d05-42e3-88b5-b22b92591c0f
 
 #### Index 0
-Why do array indexes start with '0' in most languages?
+Why do array indexes start with '0' in most languages?  
+https://claude.ai/chat/5775489c-f73e-4a97-85c6-5699d5896e1a
 
 #### TDD
-How do tests and TDD influence code design?
-
-#### DRY Violation
-Write a snippet of code violating the Don't Repeat Yourself (DRY) principle. Then, explain why it is a bad design, and fix it.
-
-#### Cohesion vs Coupling
-What's the difference between cohesion and coupling?
+How do tests and TDD influence code design?  
+https://claude.ai/chat/a967762c-fe9f-488e-aa1f-3edd5d4e943b
 
 #### Refactoring
-What is refactoring useful for?
+What is refactoring useful for?  
+https://claude.ai/chat/eec2fe10-5720-48fb-b2d9-185c7bb1422a
 
 #### Code Comments
-Are comments in code useful? Some say they should be avoided as much as possible, and hopefully made unnecessary. Do you agree?
+Are comments in code useful? Some say they should be avoided as much as possible, and hopefully made unnecessary. Do you agree?  
+https://claude.ai/chat/4f3ea636-bb44-4e8c-96fe-9a5a6e46072b
 
 #### Design vs Architecture
-What is the difference between design and architecture?
+What is the difference between design and architecture?  
+https://claude.ai/chat/509aa88a-8697-457e-9db6-95e39a23e7b8
 
 #### Early Testing
-In TDD, why are tests written before code?
+In TDD, why are tests written before code?  
+https://claude.ai/chat/ab62a77f-5dd9-43ef-a834-8b8b57dc0603
 
 #### Multiple Inheritance
-C++ supports multiple inheritance, and Java allows a class to implement multiple interfaces. What impact does using these facilities have on orthogonality? Is there a difference in impact between using multiple inheritance and multiple interfaces? Is there a difference between using delegation and using inheritance? [This question is from The Pragmatic Programmer, by Andrew Hunt and David Thomas]
+C++ supports multiple inheritance, and Java allows a class to implement multiple interfaces. What impact does using these facilities have on orthogonality? Is there a difference in impact between using multiple inheritance and multiple interfaces? Is there a difference between using delegation and using inheritance? [This question is from The Pragmatic Programmer, by Andrew Hunt and David Thomas]  
+https://claude.ai/chat/301da8a3-0459-4c7d-903c-d58b045b6f45
 
 #### Domain Logic in Stored Procedures
 What are the pros and cons of holding domain logic in Stored Procedures?
