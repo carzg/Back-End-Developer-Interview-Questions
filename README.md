@@ -404,61 +404,81 @@ What is a closure, and what is useful for? What's in common between closures and
 https://claude.ai/chat/efabf83e-7b03-4b4e-a4eb-8de8b7255bab
 
 #### Generics
-What are generics useful for?
+What are generics useful for?  
+https://claude.ai/chat/1080c8a4-830f-4e85-ada0-6b96c19295a3
 
 #### High-Order Functions
-What are higher-order functions? What are they useful for? Write one, in your preferred language.
+What are higher-order functions? What are they useful for? Write one, in your preferred language.  
+https://claude.ai/chat/a9d4de88-9ad9-4d30-856a-c44d20a6e3a7
 
 #### Loops and Recursion
-Write a loop, then transform it into a recursive function, using only immutable structures (i.e. avoid using variables). Discuss.
+Write a loop, then transform it into a recursive function, using only immutable structures (i.e. avoid using variables). Discuss.  
+https://claude.ai/chat/9da115e1-d854-47f1-b946-70b7abef22bf
 
 #### Functions as First-Class Citizens
 What does it mean when a language treats functions as first-class citizens?
-Why is it important that in a language functions are first-class citizens?
+Why is it important that in a language functions are first-class citizens?  
+https://claude.ai/chat/03b5219e-c78a-4124-91d8-5741393d9e36
 
 #### Anonymous Functions
-Show me an example where an anonymous function can be useful.
+Show me an example where an anonymous function can be useful.  
+https://claude.ai/chat/71dc364e-97b2-4a47-badb-c605176bd887
 
 #### Static and Dynamic typing
-There are a lot of different type systems. Let's talk about static and dynamic type systems, and about strong and weak ones. You surely have an opinion and a preference about this topic. Would you like to share them, and discuss why and when would you promote one particular type system for developing an enterprise software?
+There are a lot of different type systems. Let's talk about static and dynamic type systems, and about strong and weak ones. You surely have an opinion and a preference about this topic. Would you like to share them, and discuss why and when would you promote one particular type system for developing an enterprise software?  
+https://claude.ai/chat/273c2701-ac37-403d-8232-8d5e831b22dd
 
 #### Namespaces
-What are namespaces useful for? Invent an alternative.
+What are namespaces useful for? Invent an alternative.  
+https://claude.ai/chat/92b876e5-d98f-48d7-930c-9c39704c9407
 
 #### Language Interoperability
-Talk about interoperability between Java and C# (in alternative, choose 2 other arbitrary languages)
+Talk about interoperability between Java and C# (in alternative, choose 2 other arbitrary languages)  
+https://claude.ai/chat/863e0a47-47fb-48c7-be90-bc954f86a93b
 
 #### Hate of Java
-Why do many software engineers not like Java?
+Why do many software engineers not like Java?  
+https://claude.ai/chat/aacdb8e3-d8fa-45d2-a2ae-63c95f775c0e
 
 #### Good and Bad Languages
-What makes a good language good and a bad language bad?
+What makes a good language good and a bad language bad?  
+https://claude.ai/chat/c7295600-314d-4920-8fa7-ebca93ec4c2a
 
 #### Referential Transparency
-Write two functions, one referentially transparent and the other one referentially opaque. Discuss.
+Write two functions, one referentially transparent and the other one referentially opaque. Discuss.  
+https://claude.ai/chat/f2e28eaa-3c9b-4447-a46a-e8f117fa58b8
 
 #### Stack and Heap
-What is a stack and what is a heap? What's a stack overflow?
+What is a stack and what is a heap? What's a stack overflow?  
+https://claude.ai/chat/4dc22c7f-1f76-4a21-8958-722af48f7c14
 
 #### Pattern Matching
-Some languages, especially the ones that promote a functional approach, allow a technique called pattern matching. Do you know it? How is pattern matching different from switch clauses?
+Some languages, especially the ones that promote a functional approach, allow a technique called pattern matching. Do you know it? How is pattern matching different from switch clauses?  
+https://claude.ai/chat/82d14a3f-3a0a-46ae-a59f-0dd1cb5fa5e8
 
 #### Exceptions
-Why do some languages have no exceptions by design? What are the pros and cons?
+Why do some languages have no exceptions by design? What are the pros and cons?  
+https://claude.ai/chat/015bfc86-15ed-489e-99cb-8ce0829d68fd
 
 #### Variant and Contravariant Inheritance
-If `Cat` is an `Animal`, is `TakeCare<Cat>` a `TakeCare<Animal>`?
+If `Cat` is an `Animal`, is `TakeCare<Cat>` a `TakeCare<Animal>`?  
+https://claude.ai/chat/4c7aca38-3320-4ad3-98ef-c4ae72f0dec7
 
 #### Constructors and Interfaces
-In Java, C# and many other languages, why are constructors not part of the interface?
+In Java, C# and many other languages, why are constructors not part of the interface?  
+https://claude.ai/chat/74b059e2-96df-400a-a0e0-eb0f8bb48197
 
 #### Node.js
-In the last years there has been a lot of hype around Node.js. What's your opinion on using a language that was initially conceived to run in the browser in the backend?
+In the last years there has been a lot of hype around Node.js. What's your opinion on using a language that was initially conceived to run in the browser in the backend?  
+https://claude.ai/chat/cc95a4f1-a605-4dd1-972b-5280b0f6746f
 
 #### Java and time-traveling
 * Pretend you have a time machine and pretend that you have the opportunity to go to a particular point in time during Java's (or C#, Python, Go or whatever) history, and talk with some of the JDK architects. What would you try to convince them of? Removing checked exceptions? Adding unsigned primitives? Adding multiple-inheritance?
+https://claude.ai/chat/a081e948-f151-4c90-b468-0f9a92101f65
+
 #### Eliminate Null
-Imagine you want to remove the possibility to have null references in your preferred language: how would you achieve this goal? What consequences would this have?
+Imagine you want to remove the possibility to have null references in your preferred language: how would you achieve this goal? What consequences would this have?  
+https://claude.ai/chat/e08e6671-cee7-448e-af88-16e881dba311
 
 
 ### [[↑]](#toc) <a name='web'>Questions about Web development:</a>
