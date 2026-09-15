@@ -473,7 +473,7 @@ In the last years there has been a lot of hype around Node.js. What's your opini
 https://claude.ai/chat/cc95a4f1-a605-4dd1-972b-5280b0f6746f
 
 #### Java and time-traveling
-* Pretend you have a time machine and pretend that you have the opportunity to go to a particular point in time during Java's (or C#, Python, Go or whatever) history, and talk with some of the JDK architects. What would you try to convince them of? Removing checked exceptions? Adding unsigned primitives? Adding multiple-inheritance?
+* Pretend you have a time machine and pretend that you have the opportunity to go to a particular point in time during Java's (or C#, Python, Go or whatever) history, and talk with some of the JDK architects. What would you try to convince them of? Removing checked exceptions? Adding unsigned primitives? Adding multiple-inheritance?  
 https://claude.ai/chat/a081e948-f151-4c90-b468-0f9a92101f65
 
 #### Eliminate Null
