@@ -473,7 +473,7 @@ In the last years there has been a lot of hype around Node.js. What's your opini
 https://claude.ai/chat/cc95a4f1-a605-4dd1-972b-5280b0f6746f
 
 #### Java and time-traveling
-* Pretend you have a time machine and pretend that you have the opportunity to go to a particular point in time during Java's (or C#, Python, Go or whatever) history, and talk with some of the JDK architects. What would you try to convince them of? Removing checked exceptions? Adding unsigned primitives? Adding multiple-inheritance?  
+Pretend you have a time machine and pretend that you have the opportunity to go to a particular point in time during Java's (or C#, Python, Go or whatever) history, and talk with some of the JDK architects. What would you try to convince them of? Removing checked exceptions? Adding unsigned primitives? Adding multiple-inheritance?  
 https://claude.ai/chat/a081e948-f151-4c90-b468-0f9a92101f65
 
 #### Eliminate Null
@@ -484,43 +484,55 @@ https://claude.ai/chat/e08e6671-cee7-448e-af88-16e881dba311
 ### [[↑]](#toc) <a name='web'>Questions about Web development:</a>
 
 #### 3rd Party Cookies
-Why are first-party cookies and third-party cookies treated so differently?
+Why are first-party cookies and third-party cookies treated so differently?  
+https://claude.ai/chat/6936e44a-a9b3-4df9-9d40-c7d79a3565fc
 
 #### API Versioning
-How would you manage Web Services API versioning?
+How would you manage Web Services API versioning?  
+https://claude.ai/chat/0e1e0951-a4c3-4745-9c72-e95d6dfcb852
 
 #### SPAs
-From a backend perspective, are there any disadvantages or drawbacks on the adoption of Single Page Applications?
+From a backend perspective, are there any disadvantages or drawbacks on the adoption of Single Page Applications?  
+https://claude.ai/chat/dba876bf-3911-4594-bdb3-a9476770652d
 
 #### Statelessness
-Why do we usually put so much effort for having stateless services? What's so good in stateless code and why and when is statefulness bad?
+Why do we usually put so much effort for having stateless services? What's so good in stateless code and why and when is statefulness bad?  
+https://claude.ai/chat/6e2a15a6-3acc-42cf-95e5-48ff5d155dca
 
 #### REST vs SOAP
-REST and SOAP: when would you choose one, and when the other?
+REST and SOAP: when would you choose one, and when the other?  
+https://claude.ai/chat/46ec56d6-a946-4114-ac1a-c273141ef807
 
 #### MVC and MVVM
-In web development, Model-View Controller and Model-View-View-Model approaches are very common, both in the backend and in the frontend. What are they, and why are they advisable?
+In web development, Model-View Controller and Model-View-View-Model approaches are very common, both in the backend and in the frontend. What are they, and why are they advisable?  
+https://claude.ai/chat/d2822e5f-f37d-453c-b711-734b54920965
 
 
 ### [[↑]](#toc) <a name='databases'>Questions about Databases:</a>
 
 #### DB Migrations
-How would you migrate an application from a database to another, for example from MySQL to PostgreSQL? If you had to manage that project, which issues would you expect to face?
+How would you migrate an application from a database to another, for example from MySQL to PostgreSQL? If you had to manage that project, which issues would you expect to face?  
+https://claude.ai/chat/6e45e188-7a39-46ed-b841-240b7da5ba3d
 
 #### NULL is special
-Why do databases treat null as a so special case? For example, why does ```SELECT * FROM table WHERE field = null``` not match records with null ``field`` in SQL?
+Why do databases treat null as a so special case? For example, why does ```SELECT * FROM table WHERE field = null``` not match records with null ``field`` in SQL?  
+https://claude.ai/chat/11a35c1b-b135-441a-b539-dbb0d8b4b2b9
 
 #### ACID
-ACID is an acronym that refers to Atomicity, Consistency, Isolation and Durability, 4 properties guaranteed by a database transaction in most database engines. What do you know about this topic? Would you like to elaborate?
+ACID is an acronym that refers to Atomicity, Consistency, Isolation and Durability, 4 properties guaranteed by a database transaction in most database engines. What do you know about this topic? Would you like to elaborate?  
+https://claude.ai/chat/120a0d1e-9919-4ffb-aa38-9661fde352e1
 
 #### Schema Migrations
-How would you manage database schema migrations? That is, how would you automate changes to database schema, as the application evolves, version after version?
+How would you manage database schema migrations? That is, how would you automate changes to database schema, as the application evolves, version after version?  
+https://claude.ai/chat/8f3670a8-1fd7-48a5-a799-1fb688389afe
 
 #### Lazy Loading
-How is lazy loading achieved? When is it useful? What are its pitfalls?
+How is lazy loading achieved? When is it useful? What are its pitfalls?  
+https://claude.ai/chat/c0602a30-543f-433c-907c-9f9b7fec0b87
 
 #### N+1 Problem
-The so called "N + 1 problem" is an issue that occurs when code needs to load the children of a parent-child relationship with a ORMs that have lazy-loading enabled, and that therefore issue a query for the parent record, and then one query for each child record. How to fix it?
+The so called "N + 1 problem" is an issue that occurs when code needs to load the children of a parent-child relationship with a ORMs that have lazy-loading enabled, and that therefore issue a query for the parent record, and then one query for each child record. How to fix it?  
+https://claude.ai/chat/0dbb3415-2e11-480e-94df-02b0b04e65fb
 
 #### Slowest Queries
 How would you find the most expensive queries in an application?
