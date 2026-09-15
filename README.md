@@ -377,25 +377,31 @@ C++ supports multiple inheritance, and Java allows a class to implement multiple
 https://claude.ai/chat/301da8a3-0459-4c7d-903c-d58b045b6f45
 
 #### Domain Logic in Stored Procedures
-What are the pros and cons of holding domain logic in Stored Procedures?
+What are the pros and cons of holding domain logic in Stored Procedures?  
+https://claude.ai/chat/569ea8f1-68f7-40fa-9b8f-f5d0b1b02429
 
 #### OOP Took Over the World
-In your opinion, why has Object-Oriented Design dominated the market for so many years?
+In your opinion, why has Object-Oriented Design dominated the market for so many years?  
+https://claude.ai/chat/08754e5c-71b4-4ffd-9b64-46fb343ebfe0
 
 #### Bad Design
-What would you do to understand if your code has a bad design?
+What would you do to understand if your code has a bad design?  
+https://claude.ai/chat/b7ce43bc-1e5d-432f-b269-9a00beb3f9f9
 
 
 ### [[↑]](#toc) <a name='languages'>Questions about Languages:</a>
 
 #### 3 worst defects
-Tell me the 3 worst defects of your preferred language
+Tell me the 3 worst defects of your preferred language  
+https://claude.ai/chat/abf32a66-589c-4d4c-9a83-4b89816bda09
 
 #### Functional Programming
-Why is there a rising interest on Functional Programming?
+Why is there a rising interest on Functional Programming?  
+https://claude.ai/chat/d55f730a-ceff-4a56-a044-f20d401fe20e
 
 #### Closures
-What is a closure, and what is useful for? What's in common between closures and classes?
+What is a closure, and what is useful for? What's in common between closures and classes?  
+https://claude.ai/chat/efabf83e-7b03-4b4e-a4eb-8de8b7255bab
 
 #### Generics
 What are generics useful for?
