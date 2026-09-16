@@ -535,61 +535,76 @@ The so called "N + 1 problem" is an issue that occurs when code needs to load th
 https://claude.ai/chat/0dbb3415-2e11-480e-94df-02b0b04e65fb
 
 #### Slowest Queries
-How would you find the most expensive queries in an application?
+How would you find the most expensive queries in an application?  
+https://claude.ai/chat/89d3ec5f-c5db-4e2e-9f85-1b4b2b782fc1
 
 #### Normalization
-In your opinion, is it always needed to use database normalization? When is it advisable to use denormalized databases?
+In your opinion, is it always needed to use database normalization? When is it advisable to use denormalized databases?  
+https://claude.ai/chat/bebcee46-0584-4928-b7f9-ae63b1ab00a7
 
 #### Blue/Green Deployment
-One of the Continuous Integration's techniques is called Blue-Green Deployment: it consists in having two production environments, as identical as possible, and in performing the deployment in one of them while the other one is still operating, and than in safely switching the traffic to the second one after some convenient testing. This technique becomes more complicated when the deployment includes changes to the database structure or content. I'd like to discuss this topic with you.
-
+One of the Continuous Integration's techniques is called Blue-Green Deployment: it consists in having two production environments, as identical as possible, and in performing the deployment in one of them while the other one is still operating, and than in safely switching the traffic to the second one after some convenient testing. This technique becomes more complicated when the deployment includes changes to the database structure or content. I'd like to discuss this topic with you.  
+https://claude.ai/chat/611b492f-0c17-47f6-9125-7b4615d443a7
 
 ### [[↑]](#toc) <a name='nosql'>Questions about NoSQL:</a>
 
 #### Eventual Consistency
-What is eventual consistency?
+What is eventual consistency?  
+https://claude.ai/chat/6e2080d3-0c5a-4a52-a899-77530f3631af
 
 #### CAP Theorem
-Brewer's Theorem, most commonly known as the CAP theorem, states that in the presence of a network partition (the P in CAP), a system's designer has to choose between consistency (the C in CAP) and availability (the A in CAP). Can you think about examples of CP, AP and CA systems?
+Brewer's Theorem, most commonly known as the CAP theorem, states that in the presence of a network partition (the P in CAP), a system's designer has to choose between consistency (the C in CAP) and availability (the A in CAP). Can you think about examples of CP, AP and CA systems?  
+https://claude.ai/chat/e87c972a-995f-4adf-8fe6-4c841b002668
 
 #### NoSQL
-How would you explain the recent rise in interest in NoSQL?
+How would you explain the recent rise in interest in NoSQL?  
+https://claude.ai/chat/294ca0a7-b777-4b9f-a921-2825e37232e8
 
 #### NoSQL and Scalability
-How does NoSQL tackle scalability challenges?
+How does NoSQL tackle scalability challenges?  
+https://claude.ai/chat/a3299bca-f7d0-4b0a-96f1-e45e0c118951
 
 #### Document and Relational DBs
-When would you use a document database like MongoDB instead of a relational database like MySQL or PostgreSQL?
+When would you use a document database like MongoDB instead of a relational database like MySQL or PostgreSQL?  
+https://claude.ai/chat/3fe767d6-dfab-4f09-927b-6d5db066fd36
 
 
 ### [[↑]](#toc) <a name='codeversioning'>Questions about code versioning:</a>
 
 #### Branching in HG and in Git
-Why is branching with Mercurial or git easier than with SVN?
+Why is branching with Mercurial or git easier than with SVN?  
+https://claude.ai/chat/f3687f70-4b89-4b38-8c96-8b148e9d69c2
  
 #### DVCS
-What are the pros and cons of distributed version control systems like Git over centralized ones like SVN?
+What are the pros and cons of distributed version control systems like Git over centralized ones like SVN?  
+https://claude.ai/chat/81be6bf1-4b75-4478-97cd-1dcd6c3f8cc1
 
 #### GitFlow and GitHubFlow
-Could you describe GitHub Flow and GitFlow workflows?
+Could you describe GitHub Flow and GitFlow workflows?  
+https://claude.ai/chat/f62b09e5-0e06-4688-b4ca-938a19ccefc6
 
 #### Rebase
-What's a rebase?
+What's a rebase?  
+https://claude.ai/chat/c80ed259-2da0-4b43-952a-558c0dee545d
 
 #### Merging in HG and in Git
-Why are merges easier with Mercurial and Git than with SVN and CVS?
+Why are merges easier with Mercurial and Git than with SVN and CVS?  
+https://claude.ai/chat/f0c7202d-c473-4f0f-af51-f07db063be61
 
 
 ### [[↑]](#toc) <a name='concurrency'>Questions about Concurrency:</a>
 
 #### Why?
-Why do we need concurrency, anyway? Explain.
+Why do we need concurrency, anyway? Explain.  
+https://claude.ai/chat/c27cd2d6-fc09-42f8-a045-2fc14fa91126
 
 #### Testing Concurrency
-Why is testing multithreaded/concurrent code so difficult?
+Why is testing multithreaded/concurrent code so difficult?  
+https://claude.ai/chat/040c452e-2603-4f64-b2a0-0b6941a64456
 
 #### Race Conditions
-What is a race condition? Code an example, using whatever language you like.
+What is a race condition? Code an example, using whatever language you like.  
+https://claude.ai/chat/9eea4099-20eb-4933-989f-7cb9323af2a8
 
 #### Deadlocks
 What is a deadlock? Would you be able to write some code that is affected by deadlocks?
