@@ -607,14 +607,16 @@ What is a race condition? Code an example, using whatever language you like.
 https://claude.ai/chat/9eea4099-20eb-4933-989f-7cb9323af2a8
 
 #### Deadlocks
-What is a deadlock? Would you be able to write some code that is affected by deadlocks?
+What is a deadlock? Would you be able to write some code that is affected by deadlocks?  
+https://claude.ai/chat/44eb10d5-9c85-41f3-a9ff-920545733d1a
 
 #### Process Starvation
-What is process starvation? If you need, let's review its definition.
+What is process starvation? If you need, let's review its definition.  
+https://claude.ai/chat/ada71d7c-2c2b-4f4c-8326-2de205ef3a2b
 
 #### Free Algorithm
-What is a wait free algorithm?
-
+What is a wait free algorithm?  
+https://claude.ai/chat/ae0ecd86-c942-40f5-8979-320406d1b114
 
 ### [[↑]](#toc) <a name='distributed'>Questions about Distributed Systems:</a>
 
