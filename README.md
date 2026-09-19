@@ -621,90 +621,116 @@ https://claude.ai/chat/ae0ecd86-c942-40f5-8979-320406d1b114
 ### [[↑]](#toc) <a name='distributed'>Questions about Distributed Systems:</a>
 
 #### Testing Distributed Systems
-How would you test a distributed system?
+How would you test a distributed system?  
+https://claude.ai/chat/bcba0336-dd6f-470d-8c04-b55f104a9c7f
 
 #### Async Communication
-When would you apply asynchronous communication between two systems?
+When would you apply asynchronous communication between two systems?  
+https://claude.ai/chat/c02dab14-f2d1-4e3a-8b49-b242c35b577a
 
 #### Pitfalls of RPC
-What are the general pitfalls of remote procedure calls?
+What are the general pitfalls of remote procedure calls?  
+https://claude.ai/chat/a4503263-f0f1-4376-aac5-86d88b065f37
 
 #### Design of Distributed Systems
-If you are building a distributed system for scalability and robustness, what are the different things you'd think of if you are working in a closed and secure network environment versus when you are working in a geographically distributed and public system?
+If you are building a distributed system for scalability and robustness, what are the different things you'd think of if you are working in a closed and secure network environment versus when you are working in a geographically distributed and public system?  
+https://claude.ai/chat/a5b1b8bc-de5a-4c9b-8cef-e6f909255740
 
 #### Fault Tolerance
-How would you manage fault tolerance in a web application? What about in a desktop one?
+How would you manage fault tolerance in a web application? What about in a desktop one?  
+https://claude.ai/chat/f228a4d1-5dba-48a8-82ef-a261adeb033c
 
 #### Failures
-How would you deal with failures in a distributed system?
+How would you deal with failures in a distributed system?  
+https://claude.ai/chat/bd042005-5892-439a-98cd-a7aff0995e92
 
 #### Network Partitions
-Let's talk about the several approaches to reconciliation after network partitions.
+Let's talk about the several approaches to reconciliation after network partitions.  
+https://claude.ai/chat/745591d7-5224-41a1-b548-1cc9db644f99
 
 #### Fallacies of Distributed Computing
-What are the fallacies of distributed computing?
+What are the fallacies of distributed computing?  
+https://claude.ai/chat/a582dab9-b5cf-4ead-ad99-204a5b131cf1
 
 #### Request/Reply vs Publish/Subscribe
-When would you use request/reply and when publish/subscribe?
+When would you use request/reply and when publish/subscribe?  
+https://claude.ai/chat/81bb98b6-62ef-48ef-a2d6-4bc75f502a1b
 
 #### Implement Transactions
-Suppose the system you are working on does not support transactionality. How would you implement it from scratch?
-
+Suppose the system you are working on does not support transactionality. How would you implement it from scratch?  
+https://claude.ai/chat/9768a7a3-c1b6-4c12-bbac-2a159a616b88
 
 ### [[↑]](#toc) <a name='management'>Questions about Software Lifecycle and Team Management:</a>
 
 #### Agility
-What is agility?
+What is agility?  
+https://claude.ai/chat/7a97b170-1411-44dc-bc0b-63e3e8e6eaf0
 
 #### Legacy Code
-How would you deal with legacy code?
+How would you deal with legacy code?  
+https://claude.ai/chat/f68ca74a-996f-4a74-8512-4842adca07e0
 
 #### Legacy Code ELI5
-Say I'm your project manager, and I'm no expert in programming. Would you try explaining to me what legacy code is and why should I care about code quality?
+Say I'm your project manager, and I'm no expert in programming. Would you try explaining to me what legacy code is and why should I care about code quality?  
+https://claude.ai/chat/c51607e6-437e-48c3-97e2-dd309c883657
 
 #### Sell me Kanban
-I'm the CEO of your company. Explain to me Kanban and convince me to invest in it.
+I'm the CEO of your company. Explain to me Kanban and convince me to invest in it.  
+https://claude.ai/chat/4ab2ae25-84bb-4b87-9aba-3db4313ca072
 
 #### Agile vs Waterfall
-What is the biggest difference between Agile and Waterfall?
+What is the biggest difference between Agile and Waterfall?  
+https://claude.ai/chat/e733c467-2d90-456c-95f3-bb988d6e9331
 
 #### Death by Meetings
-Being a team manager, how would you deal with the problem of having too many meetings?
+Being a team manager, how would you deal with the problem of having too many meetings?  
+https://claude.ai/chat/3f80f9bd-c5a4-43e0-9cb4-7476efd6842d
 
 #### Late Projects
-How would you manage a very late project?
+How would you manage a very late project?  
+https://claude.ai/chat/4b02044d-9f1d-4e9d-b94e-2b1c35c9e0cf
 
 #### Agile Manifesto
-"*Individuals and interactions over processes and tools*" and "*Customer collaboration over contract negotiation*" comprise half of the values of the Agile Manifesto. Discuss
+"*Individuals and interactions over processes and tools*" and "*Customer collaboration over contract negotiation*" comprise half of the values of the Agile Manifesto. Discuss  
+https://claude.ai/chat/9b19eddd-c44c-43fa-934d-27c1e4b4cf6d
 
 #### If I were the CTO
-Tell me what decisions would you take if you could be the CTO of your Company.
+Tell me what decisions would you take if you could be the CTO of your Company.  
+https://claude.ai/chat/83e02d52-a960-4d50-a7eb-e926f1cba54d
 
 #### PMs
-Are program managers useful?
+Are program managers useful?  
+https://claude.ai/chat/aa33c26f-7d55-45b8-b53b-f4723a72fa20
 
 #### Team Organization
-Organize a development team using flexible schedules (that is, no imposed working hours) and "take as you need" vacation policy
+Organize a development team using flexible schedules (that is, no imposed working hours) and "take as you need" vacation policy  
+https://claude.ai/chat/1d9a5a24-990e-4bed-8df7-e016b12a7cdf
 
 #### Turn Over
-How would you manage a very high turn over and convince developers not to leave the team, without increasing compensation? What could a company improve to make them stay?
+How would you manage a very high turn over and convince developers not to leave the team, without increasing compensation? What could a company improve to make them stay?  
+https://claude.ai/chat/e257557d-b7ef-455f-b6da-46d5b90784e1
 
 #### Qualities
-What are the top 3 qualities you look for in colleagues, beyond their code?
+What are the top 3 qualities you look for in colleagues, beyond their code?  
+https://claude.ai/chat/eae2d142-d181-41fb-b943-c31e845f1b40
 
 #### 3 Things About Code
-What are the top 3 things you wish non-technical people knew about code?
+What are the top 3 things you wish non-technical people knew about code?  
+https://claude.ai/chat/d9a7aade-0546-437f-ab6b-4ab5765fb00a
 
 #### 1 month's revolution
-Imagine your company gives you 1 month and some budget to improve your and your colleagues' daily life. What would you do?
+Imagine your company gives you 1 month and some budget to improve your and your colleagues' daily life. What would you do?  
+https://claude.ai/chat/708bc013-d7d4-4af0-b0cc-b0eb12772322
 
 #### How do you use AI
-In your team, how do you use AI
+In your team, how do you use AI  
+https://claude.ai/chat/a3110f5d-27c4-4c0e-9aa0-f19d2111c940
 
 ### [[↑]](#toc) <a name='algorithms'>Questions about logic and algorithms:</a>
 
 #### FIFO with LIFO
-Make a FIFO queue using only LIFO stacks. Then build a LIFO stack using only FIFO queues.
+Make a FIFO queue using only LIFO stacks. Then build a LIFO stack using only FIFO queues.  
+https://claude.ai/chat/18314f43-bc61-42b3-a356-3a04aa61fb78
 
 #### Stack Overflow
 Write a snippet of code affected by a stack overflow.
