@@ -749,19 +749,24 @@ How would you design a "defragger" utility?
 https://claude.ai/chat/e5ac8c48-b6ef-4412-b84e-598de8b97c46
 
 #### Mazes
-Write a program that builds random mazes.
+Write a program that builds random mazes.  
+https://claude.ai/chat/2f77e2df-a47b-416a-949b-c90e26709c58
 
 #### Memory Leaks
-Write a sample program that produces a memory leak.
+Write a sample program that produces a memory leak.  
+https://claude.ai/chat/36586d24-b0a4-47f4-badf-d7e9a662a330
 
 #### PRNG
-Generate a sequence of unique random numbers.
+Generate a sequence of unique random numbers.  
+https://claude.ai/chat/2be75bcd-70b2-41b7-8146-2807a94f2d7d
 
 #### Garbage Collecting
-Write a simple garbage collection system.
+Write a simple garbage collection system.  
+https://claude.ai/chat/24f0b7a6-a514-4741-b4cd-f4cd75e73401
 
 #### Queues
-Write a basic message broker, using whatever language you like.
+Write a basic message broker, using whatever language you like.  
+https://claude.ai/chat/d4bfbfc7-ebe3-436a-86e5-62234deee449
 
 #### Simple Web Server
 Write a very basic web server. Draw a road map for features to be implemented in the future.
@@ -771,6 +776,9 @@ How would you sort a 10GB file? How would your approach change with a 10TB one?
 
 #### Duplicates
 How would you programmatically detect file duplicates?
+
+#### Batching
+Write a micro batching library.
 
 ### [[↑]](#toc) <a name='architecture'>Questions about Software Architecture:</a>
 
