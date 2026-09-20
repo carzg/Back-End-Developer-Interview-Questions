@@ -733,15 +733,20 @@ Make a FIFO queue using only LIFO stacks. Then build a LIFO stack using only FIF
 https://claude.ai/chat/18314f43-bc61-42b3-a356-3a04aa61fb78
 
 #### Stack Overflow
-Write a snippet of code affected by a stack overflow.
+Write a snippet of code affected by a stack overflow.  
+https://claude.ai/chat/c740a32e-8d1a-466e-bda1-25c3cda82386
 
 #### Tail Recursive n!
 Write a tail-recursive version of the factorial function.
+https://claude.ai/chat/7dfde0f2-f142-4732-a069-bd3ea119bbfc
+
 #### REPL
 Using your preferred language, write a REPL that echoes your inputs. Evolve it to make it an RPN calculator.
+https://claude.ai/chat/39628181-2d31-4f88-9541-515804d1fa2d
 
 #### Defragger
 How would you design a "defragger" utility?
+https://claude.ai/chat/e5ac8c48-b6ef-4412-b84e-598de8b97c46
 
 #### Mazes
 Write a program that builds random mazes.
