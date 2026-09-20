@@ -769,7 +769,8 @@ Write a basic message broker, using whatever language you like.
 https://claude.ai/chat/d4bfbfc7-ebe3-436a-86e5-62234deee449
 
 #### Simple Web Server
-Write a very basic web server. Draw a road map for features to be implemented in the future.
+Write a very basic web server. Draw a road map for features to be implemented in the future.  
+https://claude.ai/chat/35999b0b-621f-4e3b-890a-6ffd402b3b76
 
 #### Sorting Huge Files
 How would you sort a 10GB file? How would your approach change with a 10TB one?
