@@ -773,54 +773,74 @@ Write a very basic web server. Draw a road map for features to be implemented in
 https://claude.ai/chat/35999b0b-621f-4e3b-890a-6ffd402b3b76
 
 #### Sorting Huge Files
-How would you sort a 10GB file? How would your approach change with a 10TB one?
+How would you sort a 10GB file? How would your approach change with a 10TB one?  
+https://claude.ai/chat/ef7572d8-2e8a-4147-ab50-298fce0a8e2a
 
 #### Duplicates
-How would you programmatically detect file duplicates?
+How would you programmatically detect file duplicates?  
+https://claude.ai/chat/0fa29de8-74f2-4cef-b72b-95b1e2eb99ab
 
 #### Batching
-Write a micro batching library.
+Write a micro batching library.  
+https://claude.ai/chat/16484837-99b1-476b-a01d-2d954a69bc30
+
+#### Prioritised Job Scheduler
+In distributed systems, we often need to interact with external services that have strict rate limits or varying importance. A Prioritised Job Scheduler helps manage this by ensuring high-priority work is handled first and we don't overwhelm the downstream system.  
+https://claude.ai/chat/40ad6820-b3bd-488a-8531-14134c58ffd3
 
 ### [[↑]](#toc) <a name='architecture'>Questions about Software Architecture:</a>
 
 #### No Cache
-When is a cache not useful or even dangerous?
+When is a cache not useful or even dangerous?  
+https://claude.ai/chat/ecc3d3b5-7692-4907-b415-cae643096dc1
 
 #### Event-Driven Architecture
-Why does Event-Driven Architecture improve scalability?
+Why does Event-Driven Architecture improve scalability?  
+https://claude.ai/chat/89a2eec3-948c-4bdc-9836-9814754fef7b
 
 #### Readability
-What makes code readable?
+What makes code readable?  
+https://claude.ai/chat/69c87474-0c4c-4639-8a7d-2c4fb8ccd603
 
 #### Emergent and Evolutionary
-What is the difference between emergent design and evolutionary architecture?
+What is the difference between emergent design and evolutionary architecture?  
+https://claude.ai/chat/68d4e02e-082b-4f14-b126-b3a782d5db41
 
 #### Scale-Out, Scale-Up
-Scale out vs scale up: how are they different? When to apply one, when the other?
+Scale out vs scale up: how are they different? When to apply one, when the other?  
+https://claude.ai/chat/8e1d0965-0d83-4d48-bf67-f16cbd416b6c
 
 #### Failures User Sessions
-How to deal with failover and user sessions?
+How to deal with failover and user sessions?  
+https://claude.ai/chat/fc9aadf5-74db-40c5-b9f6-75370b7864a4
 
 #### CQRS
-What is CQRS (Command Query Responsibility Segregation)? How is it different from the oldest Command-Query Separation Principle?
+What is CQRS (Command Query Responsibility Segregation)? How is it different from the oldest Command-Query Separation Principle?  
+https://claude.ai/chat/1ad74a9f-1f5c-4423-86e2-a7ebc4b86ca9
 
 #### n-tier
-The so called "multitier architecture" is an approach to design a client–server system aimed to keep physically and logically separated presentation, application processing, data management and other functions. The most widespread of the multitier architectures is the three-tier architecture. Would you discuss the pros and cons of such an approach?
+The so called "multitier architecture" is an approach to design a client–server system aimed to keep physically and logically separated presentation, application processing, data management and other functions. The most widespread of the multitier architectures is the three-tier architecture. Would you discuss the pros and cons of such an approach?  
+https://claude.ai/chat/2e0ed97c-06c0-4989-881d-b96197b2d871
 
 #### Scalability
-How would you design a software system for scalability?
+How would you design a software system for scalability?  
+https://claude.ai/chat/a668d2bc-0ab7-4d68-871c-45665fb4a81e
 
 #### C10K
-Someone gave the name "The "C10k problem" to the problem of optimising network sockets to handle over 10.000 open connections at once. While handling 10.000 concurrent clients is not the same as handling 10.000 open connection, the context is similar. It's a tough challenge anyway, and no one is expected to know every single detail to solve it. It may be interesting to discuss the strategies you know to deal with that problem. Would you like to try?
+Someone gave the name "The "C10k problem" to the problem of optimising network sockets to handle over 10.000 open connections at once. While handling 10.000 concurrent clients is not the same as handling 10.000 open connection, the context is similar. It's a tough challenge anyway, and no one is expected to know every single detail to solve it. It may be interesting to discuss the strategies you know to deal with that problem. Would you like to try?  
+https://claude.ai/chat/0ce3c638-a06f-49ec-ac62-a31d3da1fecb
 
 #### P2P
-How would you design a decentralized (that is, with no central server) P2P system?
+How would you design a decentralized (that is, with no central server) P2P system?  
+https://claude.ai/chat/74705d21-fb51-41e6-b4fe-08f69e7019fe
 
 #### CGI
-You may recall that Common Gateway Interface (CGI) is a standard protocol for web servers to execute programs (CGI scripts) that execute as Command-line programs on a server, and that dynamically generate HTML pages when invoked by a HTTP request. Perl and PHP used to be common languages for such scripts. In CGI, a HTTP request generally causes the invocation of a new process on the server, but FastCGI, SCGI and other approaches improved the mechanism, raising the performance, with techniques such as preforking processes. Can you discuss why CGI became obsolete, and was instead replaced with other architectural approaches?
+You may recall that Common Gateway Interface (CGI) is a standard protocol for web servers to execute programs (CGI scripts) that execute as Command-line programs on a server, and that dynamically generate HTML pages when invoked by a HTTP request. Perl and PHP used to be common languages for such scripts. In CGI, a HTTP request generally causes the invocation of a new process on the server, but FastCGI, SCGI and other approaches improved the mechanism, raising the performance, with techniques such as preforking processes. Can you discuss why CGI became obsolete, and was instead replaced with other architectural approaches?  
+https://claude.ai/chat/e2c6cb20-2be3-4fc3-bc31-208ff30d1599
 
 #### Vendor Lock-in
-How would you defend the design of your systems against vendor Lock-in?
+How would you defend the design of your systems against vendor Lock-in?  
+https://claude.ai/chat/4b9872dc-2a93-4ce5-a338-bf1ca402942f
 
 #### Pub/Sub
 What are the disadvantages of the publish-subscribe pattern at scale?
