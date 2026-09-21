@@ -164,6 +164,8 @@ Feel free to open a [Discussion](https://github.com/arialdomartini/Back-End-Deve
   * [Simple Web Server](#simple-web-server)
   * [Sorting Huge Files](#sorting-huge-files)
   * [Duplicates](#duplicates)
+  * [Batching](#Batching)
+  * [Prioritised Job Scheduler](#Prioritised-Job-Scheduler)
 
 * [Questions about Software Architecture](#architecture)
   * [No Cache](#no-cache)
