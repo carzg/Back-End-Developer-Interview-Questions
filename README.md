@@ -845,58 +845,73 @@ How would you defend the design of your systems against vendor Lock-in?
 https://claude.ai/chat/4b9872dc-2a93-4ce5-a338-bf1ca402942f
 
 #### Pub/Sub
-What are the disadvantages of the publish-subscribe pattern at scale?
+What are the disadvantages of the publish-subscribe pattern at scale?  
+https://claude.ai/chat/9314a37a-be11-43aa-8bde-ded368fb6580
 
 #### CPUs
-What's new in CPUs since the 80s, and how does it affect programming?
+What's new in CPUs since the 80s, and how does it affect programming?  
+https://claude.ai/chat/227ec46f-b61b-4762-9492-f33c47c13a39
 
 #### Performance
-In which part of the lifecycle of a software performance should be taken in consideration, and how?
+In which part of the lifecycle of a software performance should be taken in consideration, and how?  
+https://claude.ai/chat/77d27460-5618-493e-a2df-e55caef3472b
 
 #### DDOS
-How could a denial of service arise not maliciously but due to a design or architectural problem?
+How could a denial of service arise not maliciously but due to a design or architectural problem?  
+https://claude.ai/chat/9d0e4cad-cdbc-44d2-bc36-4ea55b228f3d
 
 #### Performance and Scalability
-What’s the relationship between performance and scalability?
+What’s the relationship between performance and scalability?  
+https://claude.ai/chat/786298ac-7a99-4b48-8843-4b86e192fb73
 
 #### Tight Coupling
-When is it OK (if ever) to use tight coupling?
+When is it OK (if ever) to use tight coupling?  
+https://claude.ai/chat/e71e8c8a-d863-486d-9fcb-b51516c832ce
 
 #### Cloud Readiness
-What characteristic should a system have to be cloud ready?
+What characteristic should a system have to be cloud ready?  
+https://claude.ai/chat/2f88c08a-0067-4461-beac-fd7b39c28d5b
 
 #### Emergent Architecture
-Does unity of design imply an aristocracy of architects? Putting it simple: can good design emerge from a collective effort of all developers?
+Does unity of design imply an aristocracy of architects? Putting it simple: can good design emerge from a collective effort of all developers?  
+https://claude.ai/chat/b7ba93b4-4e27-4ba0-8cef-4ec1dd4f1aa4
 
 #### Design, Architecture, Functionality, Aesthetic
-What's the difference between design, architecture, functionality and aesthetic? Discuss.
-
+What's the difference between design, architecture, functionality and aesthetic? Discuss.  
+https://claude.ai/chat/afab6b0c-4fd2-4d21-b24a-8f2f328b6e57
 
 
 ### [[↑]](#toc) <a name='soa'>Questions about Service Oriented Architecture and Microservices:</a>
 
 #### Long-lived Transactions
-Why, in a SOA, long-lived transactions are discouraged and sagas are suggested instead?
+Why, in a SOA, long-lived transactions are discouraged and sagas are suggested instead?  
+https://claude.ai/chat/a7f0ef78-9786-4dde-ba91-6c190bd85dcd
 
 #### SOA and Micro Services
-What are the differences between SOA and microservice?
+What are the differences between SOA and microservice?  
+https://claude.ai/chat/3b168570-09e1-448b-89ae-4a6ab97fec63
 
 #### Versioning and Breaking Changes
-Let's talk about web services versioning, version compatibility and breaking changes.
+Let's talk about web services versioning, version compatibility and breaking changes.  
+https://claude.ai/chat/cf008d21-6621-4f5d-b20b-9d2b1c7bc0e8
 
 #### Sagas and compensations
-What's the difference between a transaction and a compensation operation in a saga, in SOA?
+What's the difference between a transaction and a compensation operation in a saga, in SOA?  
+https://claude.ai/chat/4b0d9819-4150-4509-8d5c-882e992270e2
 
 #### Too Micro
-When is a microservice too micro?
+When is a microservice too micro?  
+https://claude.ai/chat/3549e879-8093-4a0a-beb9-ff281024e5d3
 
 #### Micro Services Architecture
-What are the pros and cons of microservice architecture?
+What are the pros and cons of microservice architecture?  
+https://claude.ai/chat/61853e40-a6f2-4536-9dfd-f8e32a84012c
 
 
 ### [[↑]](#toc) <a name='security'>Questions about Security:</a>
 #### Security by Default
-How do you write secure code? In your opinion, is it one of the developer's duties, or does it require a specialized role in the company? And why?
+How do you write secure code? In your opinion, is it one of the developer's duties, or does it require a specialized role in the company? And why?  
+https://claude.ai/chat/cd82b356-1df1-4372-8bbb-71011eb020fc
 
 #### Don't Invent Cryptography
 Why is it said that cryptography is not something you should try to invent or design yourself?
