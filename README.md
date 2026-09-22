@@ -914,78 +914,98 @@ How do you write secure code? In your opinion, is it one of the developer's duti
 https://claude.ai/chat/cd82b356-1df1-4372-8bbb-71011eb020fc
 
 #### Don't Invent Cryptography
-Why is it said that cryptography is not something you should try to invent or design yourself?
+Why is it said that cryptography is not something you should try to invent or design yourself?  
+https://claude.ai/chat/330dfde3-fcde-42d5-8604-0d5dbc504c7a
 
 #### 2-FA
-What is two factor authentication? How would you implement it in an existing web application?
+What is two factor authentication? How would you implement it in an existing web application?  
+https://claude.ai/chat/ded38168-3030-4f3e-822a-a5236c9b0a2c
 
 #### Confidential Data in Logs
-If not carefully handled, there is always a risk of logs containing sensitive information, such as passwords. How would you deal with this?
+If not carefully handled, there is always a risk of logs containing sensitive information, such as passwords. How would you deal with this?  
+https://claude.ai/chat/0ea1fbef-f063-4b9b-a016-bb24034c2e97
 
 #### SQL Injection
-Write down a snippet of code affected by SQL injection and fix it.
+Write down a snippet of code affected by SQL injection and fix it.  
+https://claude.ai/chat/f630e42d-ee87-4cd3-b987-4e61a210f246
 
 #### Detect SQL Injection
-How would it be possible to detect SQL injection via static code analysis? I don't expect you to write an algorithm capable of doing this, as it is probably a huge topic, but let's discuss a general approach.
+How would it be possible to detect SQL injection via static code analysis? I don't expect you to write an algorithm capable of doing this, as it is probably a huge topic, but let's discuss a general approach.  
+https://claude.ai/chat/efdecac0-fdfd-4fb1-aadc-d9e7646469cd
 
 #### XSS
-What do you know about Cross-Site Scripting? If you don't remember it, let's review online its definition and let's discuss about it.
+What do you know about Cross-Site Scripting? If you don't remember it, let's review online its definition and let's discuss about it.  
+https://claude.ai/chat/22e59ccd-fe26-4bd2-86e6-b7d96d0fd44b
 
 #### Cross-Site Forgery Attack
-What do you know about Cross-Site Forgery Attack? If you don't remember it, let's review online its definition and let's discuss about it.
+What do you know about Cross-Site Forgery Attack? If you don't remember it, let's review online its definition and let's discuss about it.  
+https://claude.ai/chat/863733a9-7605-4812-a92e-cc8b3c0d2c47
 
 #### HTTPS
-How does HTTPS work?
+How does HTTPS work?  
+https://claude.ai/chat/82d1fd61-1c7f-49cf-84e5-2f2e4dfd70d4
 
 #### MITM Attack
-What's a man-in-the-middle Attack, and why does HTTPS help protect against it?
+What's a man-in-the-middle Attack, and why does HTTPS help protect against it?  
+https://claude.ai/chat/2f203fdb-6023-4024-b6cd-bc243c9cf984
 
 #### Stealing Sessions
-How can you prevent the user's session from being stolen? Chances are you remember what session or cookie hijacking is, otherwise let's read its Wikipedia page together.
-
+How can you prevent the user's session from being stolen? Chances are you remember what session or cookie hijacking is, otherwise let's read its Wikipedia page together.  
+https://claude.ai/chat/cf0e1714-c702-4f82-a631-c3f9e53c2ca2
 
 ### [[↑]](#toc) <a name='general'>General Questions:</a>
 
 #### Why FP?
-Why does functional programming matter? When should a functional programming language be used?
+Why does functional programming matter? When should a functional programming language be used?  
+https://claude.ai/chat/21c1aad1-3c29-45d5-bd70-0527f6d22311
 
 #### Browsers
-How do companies like Microsoft, Google, Opera and Mozilla profit from their browsers?
+How do companies like Microsoft, Google, Opera and Mozilla profit from their browsers?  
+https://claude.ai/chat/1a903376-f7a0-400d-b82a-97d8b78a5b94
 
 #### TCP Sockets
-Why does opening a TCP socket have a large overhead?
+Why does opening a TCP socket have a large overhead?  
+https://claude.ai/chat/8f9ea620-5a84-46ce-b8e3-67f80eecfa6d
 
 #### Encapsulation
-What is encapsulation important for?
+What is encapsulation important for?  
+https://claude.ai/chat/77cb8851-da45-4dab-9030-57ac7fd0b3f2
 
 #### Real-time systems
-What is a real-time system and how is it different from an ordinary system?
+What is a real-time system and how is it different from an ordinary system?  
+https://claude.ai/chat/6f319d55-435a-423d-8be0-980f8e19305c
 
 #### Real-time and memory allocation
-What's the relationship between real-time languages and heap memory allocation?
+What's the relationship between real-time languages and heap memory allocation?  
+https://claude.ai/chat/c65cc073-6ad4-402f-89d3-1cf5024c27ec
 
 #### Immutability
-Immutability is the practice of setting values once, at the moment of their creation, and never changing them. How can immutability help write safer code?
+Immutability is the practice of setting values once, at the moment of their creation, and never changing them. How can immutability help write safer code?  
+https://claude.ai/chat/5a2a6708-c8fd-4dcd-bb6d-66574d4baed1
 
 #### Mutable vs Immutable
-What are the pros and cons of mutable and immutable values.
+What are the pros and cons of mutable and immutable values.  
+https://claude.ai/chat/fbc5082f-531d-497d-badd-7bdc785d1b60
 
 #### Object-Relational Impedance Mismatch
-What's the Object-Relational impedance mismatch?
+What's the Object-Relational impedance mismatch?  
+https://claude.ai/chat/f7772519-44e6-485c-9640-112625dc32a6
 
 #### Sizing a Cache
-Which principles would you apply to define the size of a cache?
+Which principles would you apply to define the size of a cache?  
+https://claude.ai/chat/3170cc98-4c41-4225-9e87-78a932b479c6
 
 #### TCP and HTTP
-What's the difference between TCP and HTTP?
+What's the difference between TCP and HTTP?  
+https://claude.ai/chat/a40ed47d-6e1c-4650-91f3-937552cd00f8
 
 #### Client-Side vs Server-Side
-What are the tradeoffs of client-side rendering vs. server-side rendering?
+What are the tradeoffs of client-side rendering vs. server-side rendering?  
+https://claude.ai/chat/735e19a0-35da-4360-b659-fdc1e18a0920
 
 #### Reliable and non-reliable channels
-How could you develop a reliable communication protocol based on a non-reliable one?
-
-
+How could you develop a reliable communication protocol based on a non-reliable one?  
+https://claude.ai/chat/951f0b14-ce8f-487a-9927-ec4a06ccd19d
 
 
 ### [[↑]](#toc) <a name='open'>Open Questions:</a>
