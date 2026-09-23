@@ -1130,6 +1130,7 @@ ArrayList<Float> lf = new ArrayList<Float>();
 if (li.getClass() == lf.getClass()) // evaluates to true
   System.out.println("Equal");
 ```
+https://claude.ai/chat/6a5fd21e-ddfc-4059-a348-dea5c5bfc377
 
 #### Memory Leak
 Can you spot the memory leak?
@@ -1164,6 +1165,7 @@ public class Stack {
     }
 }
 ```
+https://claude.ai/chat/a69ba719-a426-435c-bc48-8195fb5ec820
 
 #### Kill the witch
 `if`s and in general conditional statements lead to procedural and imperative programming. Can you get rid of this `switch` and make this snippet more object oriented?
@@ -1190,6 +1192,7 @@ public class Formatter {
     }
 }
 ```
+https://claude.ai/chat/832471f7-646a-4f7f-aadf-7dba59f24399
 
 #### Kill the if
 Can you get rid of these `if`s and make this snippet of code more object oriented?
@@ -1223,6 +1226,7 @@ public class TheService {
     }
 }
 ```
+https://claude.ai/chat/33bc9bdd-7744-4920-9db3-8a51aa3fbd31
 
 #### Kill the if-chain
 How would you refactor this code?
@@ -1264,37 +1268,48 @@ function()
     return error;
 }
 ```
-[Resources](snippets/kill-the-if-chain.md)
+[Resources](snippets/kill-the-if-chain.md)  
+https://claude.ai/chat/34e2c05d-110b-4e77-a515-839bd87799e1
 
 ### [[↑]](#toc) <a name='billgates'>Bill Gates Style Questions:</a>
 This section collects some weird questions along the lines of the [Manhole Cover Question](https://en.wikipedia.org/wiki/Microsoft_interview#Manhole_cover_question).
 
 #### Mirrors
-What would happen if you put a mirror in a scanner?
+What would happen if you put a mirror in a scanner?  
+https://claude.ai/chat/53e43440-8cd8-4876-bde7-3369f141bc3b
 
 #### Clones
-Imagine there's a perfect clone of yourself. Imagine that that clone is your boss. Would you like to work for him/her?
+Imagine there's a perfect clone of yourself. Imagine that that clone is your boss. Would you like to work for him/her?  
+https://claude.ai/chat/69dce9bc-56b0-49d5-be7e-fd01745306bb
 
 #### Revert
-Interview me.
+Interview me.  
+https://claude.ai/chat/eed279c0-4f54-48ec-bee8-68e5fa7f0ac2
 
 #### Quora
-Why are Quora's answers better than Yahoo Answers' ones?
+Why are Quora's answers better than Yahoo Answers' ones?  
+https://claude.ai/chat/ebd7b400-39d1-4ced-be28-d763ff6d94d1
 
 #### Cobol
-Let's play a game: defend Cobol against modern languages, and try to find as many reasonable arguments as you can.
+Let's play a game: defend Cobol against modern languages, and try to find as many reasonable arguments as you can.  
+https://claude.ai/chat/f89e4664-8ce1-4e78-8961-cf993b8a434b
 
 #### 10 years
-Where will you be in 10 years?
+Where will you be in 10 years?  
+https://claude.ai/chat/5fe1a1a0-7efc-451e-be44-960aa76ee4f5
 
 #### Fire me
-You are my boss and I'm fired. Inform me.
+You are my boss and I'm fired. Inform me.  
+https://claude.ai/chat/db0f20c0-06d8-4fc2-9bf6-de7e360ebdb1
 
 #### From scratch
-I want to refactor a legacy system. You want to rewrite it from scratch. Argument. Then, switch our roles.
+I want to refactor a legacy system. You want to rewrite it from scratch. Argument. Then, switch our roles.  
+https://claude.ai/chat/1fdb1f49-25ef-43a5-88bc-d9657f8db79e
 
 #### Telling lies
-Your boss asks you to lie to the company. What's your reaction?
+Your boss asks you to lie to the company. What's your reaction?  
+https://claude.ai/chat/f989377e-80bf-45a4-abe5-0da002045302
 
 #### Your past self
-If you could travel back in time, which advice would you give to your younger self?
+If you could travel back in time, which advice would you give to your younger self?  
+https://claude.ai/chat/222dbd73-f471-469b-b7d1-995026896013
