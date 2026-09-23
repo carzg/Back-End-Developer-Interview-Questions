@@ -1011,77 +1011,100 @@ https://claude.ai/chat/951f0b14-ce8f-487a-9927-ec4a06ccd19d
 ### [[↑]](#toc) <a name='open'>Open Questions:</a>
 
 #### Resistance to Change
-Why do people resist change?
+Why do people resist change?  
+https://claude.ai/chat/1872ad9f-bc33-40d9-b94f-848627cf206b
 
 #### Threading ELI5
-Explain threads to your grandparents
+Explain threads to your grandparents  
+https://claude.ai/chat/f21aa02a-1198-4284-86d5-fbd7404e592f
 
 #### Innovation and Predictability
-As a software engineer you want both to innovate and to be predictable. How those two goals can coexist in the same strategy?
+As a software engineer you want both to innovate and to be predictable. How those two goals can coexist in the same strategy?  
+https://claude.ai/chat/c601e586-5588-4a31-b2e3-f185dc9220d6
 
 #### Good Code
-What makes good code good?
+What makes good code good?  
+https://claude.ai/chat/19e170b4-6ccc-4505-8de3-5663e9b3712c
 
 #### Streaming
-Explain streaming and how you would implement it.
+Explain streaming and how you would implement it.  
+https://claude.ai/chat/badb2dff-3b75-481e-b32b-8fac8c9f2343
 
 #### 1 Week Improvement
-Say your company gives you one week you can use to improve your and your colleagues' lifes: how would you use that week?
+Say your company gives you one week you can use to improve your and your colleagues' lifes: how would you use that week?  
+https://claude.ai/chat/9ae01cbf-0182-4397-a9be-b644dcb65708
 
 #### Learnt this week
-What did you learn this week?
+What did you learn this week?  
+https://claude.ai/chat/1c043761-0426-4130-abcd-50026a5f3192
 
 #### Aesthetic
-There is an aesthetic element to all design. The question is, is this aesthetic element your friend or your enemy?
+There is an aesthetic element to all design. The question is, is this aesthetic element your friend or your enemy?  
+https://claude.ai/chat/3721627c-b929-49f7-82df-eb5dfea0fbe2
 
 #### Last 5 books
-List the last 5 books you read.
+List the last 5 books you read.  
+https://claude.ai/chat/bf15bbe4-068d-4665-86cd-12c8c253e5ee
 
 #### Introducing CI/CD
-How would you introduce Continuous Delivery in a successful, huge company for which the change from Waterfall to Continuous Delivery would be not trivial, because of the size and complexity of the business?
+How would you introduce Continuous Delivery in a successful, huge company for which the change from Waterfall to Continuous Delivery would be not trivial, because of the size and complexity of the business?  
+https://claude.ai/chat/c9b85e00-cc91-4dc7-97e1-fbcc262321bd
 
 #### Reinvent the Wheel
-When does it make sense to reinvent the wheel?
+When does it make sense to reinvent the wheel?  
+https://claude.ai/chat/b7a544a5-2632-449e-8aab-40478c3ab449
 
 #### Not Invented Here
-Let's have a conversation about "*reinventing the wheel*", the "*not invented here syndrome*" and the "*eating your own food*" practice
+Let's have a conversation about "*reinventing the wheel*", the "*not invented here syndrome*" and the "*eating your own food*" practice  
+https://claude.ai/chat/790da7af-a64b-4def-b4b1-52e5efc01278
 
 #### Next Thing to Automate
-What's the next thing you would automate in your current workflow?
+What's the next thing you would automate in your current workflow?  
+https://claude.ai/chat/81392def-4865-4612-8121-e5e64ced6792
+
 #### Coding is Hard
-Why is writing software difficult? What makes maintaining software hard?
+Why is writing software difficult? What makes maintaining software hard?  
+https://claude.ai/chat/cb9a9d2d-40b8-4464-bca3-a736b3ff1217
 
 #### Green Fields and Brown Fields
-Would you prefer working on green field or brown field projects? Why?
+Would you prefer working on green field or brown field projects? Why?  
+https://claude.ai/chat/16f5af11-27b2-44fa-9ff4-417e378d4002
 
 #### Type "Google.com"
-[What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
+[What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)  
+https://claude.ai/chat/ce3ef50e-242c-423c-8527-af027962f39d
 
 #### While idle
-What does an operating system do when it has got no custom code to run, and therefore it looks idle? I would like to start a discussions about interrupts, daemons, background services, polling, event handling and so on.
+What does an operating system do when it has got no custom code to run, and therefore it looks idle? I would like to start a discussions about interrupts, daemons, background services, polling, event handling and so on.  
+https://claude.ai/chat/bc2703fe-8760-4002-9212-139efa64a569
 
 #### Unicode
-Explain Unicode and database transactions to a 5 year old child.
+Explain Unicode and database transactions to a 5 year old child.  
+https://claude.ai/chat/def42006-46ee-4740-b69c-a663374eeaa6
 
 #### Defending Monoliths
-Defend the monolithic architecture.
+Defend the monolithic architecture.  
+https://claude.ai/chat/8838a3e2-77a6-4b4a-a64f-37c0fc609d8d
 
 #### Professional Developers
-What does it mean to be a "professional developer"?
+What does it mean to be a "professional developer"?  
+https://claude.ai/chat/9287dd38-c1a2-4e1d-8b95-b1f59f86940d
 
 #### It's an art
-Is developing software Art, Engineering, Crafts or Science? Your opinion.
+Is developing software Art, Engineering, Crafts or Science? Your opinion.  
+https://claude.ai/chat/5ab3d85d-8c22-4781-9dcf-6d520368572a
 
 #### People who like this also like...
-"People who like this also like... ". How would you implement this feature in an e-commerce shop?
+"People who like this also like... ". How would you implement this feature in an e-commerce shop?  
+https://claude.ai/chat/338dead6-dcb3-4f16-b04c-7445107f2b56
 
 #### Corporations vs Startups
-Why are corporations slower than startups in innovating?
+Why are corporations slower than startups in innovating?  
+https://claude.ai/chat/3ddab512-8b51-4148-9908-5c87adf85440
 
 #### I'm proud of
-What have you achieved recently that you are proud of?
-
-
+What have you achieved recently that you are proud of?  
+https://claude.ai/chat/9eac5689-54e8-422b-8020-d03c97d62809
 
 ### [[↑]](#toc) <a name='snippets'>Questions about snippets of code:</a>
 
@@ -1097,6 +1120,7 @@ function hookupevents() {
   }
 }
 ```
+https://claude.ai/chat/1a62e2de-4c27-40d3-9143-2e24f8fabb51
 
 #### Type Erasure
 About Type Erasure, what's the output of this Java snippet, and why?
